@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+<parametro>
+<servidor>
+domain
+</servidor>
+<remitente>
+sender@domain.com
+</remitente>
+<destinatario>
+recipient@otherdomain.com
+</destinatario>
+<adjunto>
+Q:\file.pdf
+</adjunto>
+<asunto>
+What ever you like as email subject
+</asunto>
+<cuerpo>
+What ever you like as email Body    
+</cuerpo>
+</parametro>
+</root>
